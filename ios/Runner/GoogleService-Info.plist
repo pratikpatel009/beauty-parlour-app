@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>590815520128-alkqa78ce71jtk76sl735i3jbkoklbhv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.590815520128-alkqa78ce71jtk76sl735i3jbkoklbhv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXzVCD4W9Ei4aSJInnoL8AOXwHPRtb9zo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>590815520128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kdtechs.chat.chat</string>
+	<key>PROJECT_ID</key>
+	<string>beauty-parlour-6c538</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beauty-parlour-6c538.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:590815520128:ios:b4ae5fb0656dfcfa478d65</string>
+</dict>
+</plist>

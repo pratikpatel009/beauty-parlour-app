@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590815520128",
+    "project_id": "beauty-parlour-6c538",
+    "storage_bucket": "beauty-parlour-6c538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590815520128:android:3ae8def10cc267cc478d65",
+        "android_client_info": {
+          "package_name": "com.kdtechs.chat.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590815520128-9lcq80rtfcj781jadeki35mib3l8q00c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9E2cj7Im-SM_YD_pzQvPQux_0wYoqbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590815520128-9lcq80rtfcj781jadeki35mib3l8q00c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
